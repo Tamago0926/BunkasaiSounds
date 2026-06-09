@@ -9,7 +9,11 @@ const container = [
     },
     {
         "word": "ゲラポー終わり",
-        "sound": "./さくらニュータウン.mp3"
+        "sound": "./sounds/劇はじめ.mp3"
+    },
+    {
+        "word": "そのまま",
+        "sound": "./sounds/さくらニュータウン.mp3"
     },
     {
         "word" :"早く食べたいな",
